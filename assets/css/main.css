@@ -786,7 +786,7 @@ h1 {
 }
 
 img {
-  max-width: 100%;
+  max-width: 1024px;
   vertical-align: middle;
   display: inline-block;
 }
@@ -874,6 +874,7 @@ table tfoot td {
 
 .post, .article-page {
   background-color: #fff;
+  max-width: 1250px;
 }
 
 ::-moz-selection {
